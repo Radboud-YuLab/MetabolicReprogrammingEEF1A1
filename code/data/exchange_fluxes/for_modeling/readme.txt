@@ -1,0 +1,1 @@
+# For modeling, I manually changed the metabolite identifiers and removed alanine. 
